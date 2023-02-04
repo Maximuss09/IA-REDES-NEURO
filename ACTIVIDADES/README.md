@@ -1,1 +1,1 @@
-En esta carpeta se almacenaran las actividades de la primera mitad del curso del semestre
+En esta carpeta se almacenaran las actividades del curso de la materia
